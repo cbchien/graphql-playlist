@@ -75,6 +75,16 @@ form button{
   left: 10px;
 }
 
+.delete-btn {
+  padding: 6px 12px;
+  border-radius: 4px;
+  border: 1px solid #78403f;
+  box-shadow: 1px 2px 3px rgba(0,0,0,0.3);
+  cursor: pointer;
+  color: #78403f;
+  background-color: #f7bfbf;
+}
+
 #book-details{
   position: fixed;
   top: 0;
